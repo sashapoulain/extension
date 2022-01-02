@@ -1,0 +1,17 @@
+{
+  "name": "Şeyma YILMAZ Profile",
+  "description": "Ş.Y presents this extension for Google ",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "icons": {
+    "16": "sykhaki_16.png",
+    "32": "sykhaki_32.png",
+    "48": "sykhaki_48.png",
+    "128": "sykhaki_128.png"
+  },
+
+  "action": {
+    "default_icon": "sykhaki_32.png",
+    "default_popup": "popup.html"
+  }
+}
